@@ -1,0 +1,15 @@
+Trip
+PremiumRide
+Rating
+Driver
+EconomyRide
+PayType
+TripStatus
+Payable
+Rider
+Vehicle
+Payment
+RideSharingApp
+NewClass
+Location
+RideOption
